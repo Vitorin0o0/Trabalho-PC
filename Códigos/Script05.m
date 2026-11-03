@@ -13,7 +13,7 @@ tr_max = 35;
 ts_max = 60;
 
 % Intervalos de busca
-zeta_vec = 0.78:0.02:2.00;333
+zeta_vec = 0.78:0.02:2.00;
 wn_vec = 0.005:0.001:0.12;
 
 % Armazenamento dos resultados
